@@ -489,7 +489,7 @@ The following screenshots demonstrate the functionality of each module in the Li
 
 Report generation and administration options.
 
-![Toolkit Menu](assets/screenshots/toolkit-menu-two.png)
+![Toolkit Menu](assets/screenshots/toolkit-menu.png)
 
 ---
 
