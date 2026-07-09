@@ -1,0 +1,12 @@
+# Backup files
+reports/backups/
+
+# Generated reports
+reports/*.txt
+
+# Temporary files
+*.log
+*.tmp
+
+# Vim swap
+*.swp
