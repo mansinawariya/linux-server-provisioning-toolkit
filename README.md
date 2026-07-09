@@ -483,13 +483,7 @@ The following screenshots demonstrate the functionality of each module in the Li
 
 ---
 
-## 🏠 Main Menu
 
-Interactive menu-driven interface providing access to all toolkit features.
-
-![Main Menu](assets/screenshots/toolkit-menu-one.png)
-
----
 
 ## 📋 Main Menu (Reports Section)
 
